@@ -1,0 +1,8 @@
+public static void man（）
+
+
+｛
+
+
+
+｝
